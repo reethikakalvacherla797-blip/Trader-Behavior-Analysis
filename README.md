@@ -39,10 +39,8 @@ Analyze how Bitcoin market sentiment (Fear/Greed) affects trader behavior and pe
 ##  How to Run
 
 ### 1️ Install dependencies
-
 pip install pandas numpy matplotlib seaborn
 
 ## 2️ Run notebook
-
 jupyter notebook analysis.ipynb
 
