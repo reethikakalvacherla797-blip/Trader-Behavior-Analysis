@@ -36,6 +36,4 @@ Analyze how Bitcoin market sentiment (Fear/Greed) affects trader behavior and pe
 - Use sentiment as a signal for risk adjustment  
 
 
-## 🔷 How to Run
-```bash
-pip install pandas numpy matplotlib seaborn
+
